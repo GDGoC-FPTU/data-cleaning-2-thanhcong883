@@ -1,0 +1,5 @@
+venv/
+sanitized_sample.json
+__pycache__/
+*.py[cod]
+*$py.class
